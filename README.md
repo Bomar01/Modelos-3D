@@ -10,6 +10,6 @@ Los siguientes recursos fueron obtenidos de sitios externos para fines de prueba
 -[Estudio](https://sketchfab.com/3d-models/stylised-room-08edc52987f1491c9de0cc45a9f43d00)
 -[Adulto mayor](https://free3d.com/3d-model/amaryllis-city-930223.html)
 
-***Nota: Este recurso se usa solo con fines de prueba.***
+Nota: Estos recursos se usaron solo con fines de prueba.
 
-Todos los recursos se utilizaron respetando sus respectivas licencias. Este proyecto no redistribuye ni modifica los archivos originales, sino que los emplea como referencia para pruebas técnicas.
+
